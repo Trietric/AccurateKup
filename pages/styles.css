@@ -1,6 +1,7 @@
 div{
     background-color: aqua;
     color: crimson;
-    font-weight: 26px;
+    font-size: 32px;
+    font-weight: center;
     text-align: center;
 }
